@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+}
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 50px 10%;
+}
+
+.head1 .logo1{
+    margin-left: 40%;
+
+}
+
+.head1 .mini_icone{
+    float: right;
+    margin: 4px;
+}
+.head2 ul{
+    margin-top: 25px;
+    margin-left: 0%;
+    padding-left: 0%;
+}
+.head2 ul li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 2.75%;
+}
+.head2 ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: medium;
+    
+}
+.article1{
+    width: 20%;
+    float: left;
+    padding-bottom: 1000px;
+}
+
+.article1 ul{
+    margin-top: 25px;
+    margin-left: 0%;
+    padding-left: 0%;
+}
+.article1 ul li{
+    display: block;
+    list-style-type: none;
+    margin-top: 3px;
+}
+
+.article1 ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 100;
+    font-size: 13pt; 
+}
+.article1 ul li a:hover{
+    text-decoration: underline;
+    
+}
+.article_head1{
+    margin-top: 50px;
+    display: table;
+    padding-bottom: 10px;
+    position: relative;
+    
+}
+.article_h1{
+    font-weight: 400;
+    font-size: 30px;
+    margin-right: 10px;
+    
+}
+
+.vertical_a{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: small;
+}
+
+.jewellery_buy{
+    margin-bottom: 50px;
+    margin-top: 25px;
+   
+}
+.jewellery_buy ul{
+    margin-left: 0px;
+    margin-left: 0px;
+    
+}
+.jewellery_buy li{
+    list-style-type: none;
+    display: inline-block;
+    
+    
+}
+.jewellery_buy a{
+    text-decoration: none;
+    color: black;
+    
+    
+}
+.jewellery_buy a img{
+    max-width: 275px;
+    max-height: 412.5px;
+}
+
+.jewellery_buy a{
+    max-width: 275px;
+    margin: 0px 300px 50px 0px;
+    
+}
+.article2 .pages{
+    text-align: center;
+}
+.article2 .next_page{
+    margin-right: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+
